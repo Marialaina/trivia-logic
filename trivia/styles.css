@@ -1,0 +1,41 @@
+body {
+    background: #1A1A1D;
+    font-family: 'Chivo';
+}
+h1{
+    color: orangered;
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+    font-size: 40px;
+}
+
+p{
+    color: orangered;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+
+}
+div {
+    
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+
+button {
+    border-radius: 15px;
+    padding: 15px;
+    background: #C3073F;
+    border: #C3073F;
+    height: 60px;
+    width: 200px;
+    color: #1A1A1D;
+    font-family: 'Chivo';
+    /* font weight not working */
+    font-weight: bold;
+}
+
